@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qh4T4rsqHEq1j+c4fK6DorWSnCMoameDF+tmBl1EcjcRcSpFWVyS+7cFDWbdAMWzem7P3SVMnu4NF0KWGn7/8w==",
+  "dgSpecHash": "d3p2RxzXKsPLND6INXh7ifEL5d4zopE1bF2lSxQePLn6eWven9ygiTX49m+y49DzuXnj/V3CHHbSTvRpdt4CUA==",
   "success": true,
-  "projectFilePath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "projectFilePath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

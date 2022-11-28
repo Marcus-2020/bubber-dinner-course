@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tWnGW/oGFsbKtjoD1iEIv+80sPIVql/dttMRff9h+vMylu9pOqAQ8TgGEMhmz+otqIkxRPVcJW+fyklRWF1vpA==",
+  "dgSpecHash": "ml8z0E3+ZaGTOS+Xl3IR2BljCHk+nKoAbciGv+EBeW3ZAjSiopaxG1dSFSR1t9DgbS4k7QFc/3KY3OEqJmUbEw==",
   "success": true,
-  "projectFilePath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

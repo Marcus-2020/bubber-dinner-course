@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCZ+O9bwg7Qs5SpjMuOoKbVZC7YsZ2vrNblQtSBe+XMqRgtOUgRPcTNmMSOotDDqr76rCN9O0PGhzer6fJs+9A==",
+  "dgSpecHash": "MOOrz6cFeiMVAY4cdJLm8ErjTijST5dJpWZs8Iu6zaoEqdMDt6Php1oReuBIaYABYpxWqej5s+SSRjbNbtfeQg==",
   "success": true,
-  "projectFilePath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "projectFilePath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

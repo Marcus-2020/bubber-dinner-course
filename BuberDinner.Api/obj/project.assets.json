@@ -1073,11 +1073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectUniqueName": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "projectName": "BuberDinner.Api",
-      "projectPath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectPath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "packagesPath": "C:\\Users\\ideapad-L340\\.nuget\\packages\\",
-      "outputPath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Api\\obj\\",
+      "outputPath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1099,14 +1099,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-              "projectPath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             },
-            "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-              "projectPath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+            "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+              "projectPath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
             },
-            "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-              "projectPath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+            "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
             }
           }
         }
