@@ -40,3 +40,5 @@ E:\projetos_estudos\cursos\clean_code_ddd\BuberDinner\BuberDinner.Api\bin\Debug\
 E:\projetos_estudos\cursos\clean_code_ddd\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 E:\projetos_estudos\cursos\clean_code_ddd\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 E:\projetos_estudos\cursos\clean_code_ddd\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\projetos_estudos\cursos\clean_code_ddd\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
+E:\projetos_estudos\cursos\clean_code_ddd\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\OneOf.dll

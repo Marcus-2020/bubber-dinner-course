@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "P6S58YEUEBxx+3OL4qq1ObsCB8SnrKS51Eg3xZHxiT+DYhHNw71u4S1teaHP7+8F5G2MUjreGBjyFholTdy8MQ==",
+  "dgSpecHash": "P8u9T8LTg4k4eYDS/Kb90C0PKy8SsJezNDStyrqEJwuGW3XgZQi0HHYUimL1l8rUs00U7W4n1nT00dLKJ9QbGA==",
   "success": true,
-  "projectFilePath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ideapad-L340\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

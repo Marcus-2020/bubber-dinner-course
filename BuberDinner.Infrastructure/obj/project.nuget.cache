@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ml8z0E3+ZaGTOS+Xl3IR2BljCHk+nKoAbciGv+EBeW3ZAjSiopaxG1dSFSR1t9DgbS4k7QFc/3KY3OEqJmUbEw==",
+  "dgSpecHash": "sYsEU28kRK9dPvQcImZfx0qnU6Em5Mp6GnkERhifnumYxbHvnknKEbyRbn66jydoyCqgjvdckxd0He61HpGKUQ==",
   "success": true,
-  "projectFilePath": "e:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "E:\\projetos_estudos\\cursos\\clean_code_ddd\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ideapad-L340\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
