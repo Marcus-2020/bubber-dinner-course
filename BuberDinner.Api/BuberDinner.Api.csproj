@@ -14,9 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="OneOf">
-      <HintPath>C:\Users\ideapad-L340\.nuget\packages\oneof\3.0.223\lib\netstandard2.0\OneOf.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>

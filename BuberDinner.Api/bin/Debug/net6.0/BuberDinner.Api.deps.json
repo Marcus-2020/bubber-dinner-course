@@ -10,8 +10,7 @@
         "dependencies": {
           "BuberDinner.Application": "1.0.0",
           "BuberDinner.Contracts": "1.0.0",
-          "BuberDinner.Infrastructure": "1.0.0",
-          "OneOf": "1.0.0.0"
+          "BuberDinner.Infrastructure": "1.0.0"
         },
         "runtime": {
           "BuberDinner.Api.dll": {}
@@ -215,14 +214,6 @@
         "runtime": {
           "BuberDinner.Infrastructure.dll": {}
         }
-      },
-      "OneOf/1.0.0.0": {
-        "runtime": {
-          "OneOf.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -396,11 +387,6 @@
     },
     "BuberDinner.Infrastructure/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "OneOf/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
